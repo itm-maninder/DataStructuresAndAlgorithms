@@ -12,3 +12,5 @@ Preference for C# solution and projects
 ## File Naming Convention
 
 ## Syntatic Sugars :candy:
+
+## Links
